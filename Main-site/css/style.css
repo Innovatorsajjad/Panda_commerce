@@ -1,6 +1,20 @@
-.carouel-background{
+h1{
+    color: #F81773;
+}
+
+pink-button{
+    background-color: #F81773;
+    color: white;
+}
+
+
+.pink-background{
     background-color:#FBE8E7 ;
 }
 .cat-image img {
     width: 100px;
+}
+.contact_h-w{
+    height: 350px;
+    margin-bottom: 100px;
 }
