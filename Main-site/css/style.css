@@ -2,9 +2,12 @@ h1{
     color: #F81773;
 }
 
-pink-button{
-    background-color: #F81773;
+.pink-button{
     color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #ff589B 0%, #ff4b92 100%);
 }
 
 
@@ -12,7 +15,7 @@ pink-button{
     background-color:#FBE8E7 ;
 }
 .cat-image img {
-    width: 100px;
+    width: 60px;
 }
 .contact_h-w{
     height: 350px;
